@@ -7,7 +7,7 @@
 🧠 Consistently solving **Data Structures and Algorithms** using **Java**  
 🎯 Goal: Build scalable web apps and crack top tech internships/jobs  
 📍 Based in Odisha, India  
-📫 Reach me at: [your_email_here@gmail.com]  
+📫 Reach me at: [satyajitsahoo28252@gmail.com]  
 
 ---
 ### 🚀 Tech Stack
