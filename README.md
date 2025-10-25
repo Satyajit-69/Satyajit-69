@@ -29,11 +29,7 @@
 
 ---
 
-### 📌 Featured Project
-**[Spotify Clone Frontend](https://github.com/Satyajit-69/Spotify-Clone-Frontend)**  
-🎵 A responsive, visually accurate Spotify-inspired music player UI built with HTML, CSS, and JavaScript.
 
----
 
 ### 📈 DSA Practice
 - 🧩 **Language:** Java  
