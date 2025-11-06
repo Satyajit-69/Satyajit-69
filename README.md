@@ -6,7 +6,9 @@
 
 <p align="center">
   <a href="mailto:satyajitsahoo28252@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/satyajit-sahoo-b16795315"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/SATYAJIT-SAHOO/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/user/satyajitsaf4tx/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   <a href="https://github.com/Satyajit-69"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
@@ -141,17 +143,21 @@ const satyajit = {
 ## 💡 Problem Solving Journey
 
 ```text
-📈 LeetCode Stats
+📈 Coding Platforms
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🔥 Languages Used    : Java, Python
-📝 Problems Solved   : Growing Daily
+📝 LeetCode          : Growing Daily
+📝 GeeksforGeeks     : Active Problem Solver
 🎯 Current Goal      : 500+ Problems
 ⭐ Focus Areas       : Arrays, Trees, DP, Graphs
 ```
 
 <p align="center">
   <a href="https://leetcode.com/u/SATYAJIT-SAHOO/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSATYAJIT-SAHOO&logo=leetcode&logoColor=yellow" alt="LeetCode Stats"/>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FSATYAJIT-SAHOO&logo=leetcode&logoColor=yellow" alt="LeetCode Stats"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/satyajitsaf4tx/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Profile"/>
   </a>
 </p>
 
@@ -167,11 +173,17 @@ const satyajit = {
   <a href="mailto:satyajitsahoo28252@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://www.linkedin.com/in/satyajit-sahoo-b16795315">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="https://github.com/Satyajit-69">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://leetcode.com/u/SATYAJIT-SAHOO/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/satyajitsaf4tx/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
