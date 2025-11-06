@@ -121,7 +121,7 @@ const satyajit = {
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajit-69&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Satyajit-69&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
