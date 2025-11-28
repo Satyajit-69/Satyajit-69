@@ -24,7 +24,7 @@
 const satyajit = {
     location: "Odisha, India 🇮🇳",
     currentFocus: "Building scalable full-stack applications",
-    learning: ["MERN Stack", "Generative AI", "System Design", "Advanced DSA"],
+    learning: ["MERN Stack", "Generative AI", "DevOps", "Advanced DSA"],
     goals: ["Land top tech internships", "Contribute to open source", "Master AI & cloud technologies"],
     funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
