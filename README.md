@@ -154,117 +154,12 @@ graph LR
     J -->|No| L[↩️ Rollback]
 ```
 
-### **My CI/CD Tech Stack**
+### **CI/CD Capabilities**
 
-<table>
-  <tr>
-    <td><strong>🔨 Build & Test</strong></td>
-    <td>NPM, GitHub Actions, Automated Testing</td>
-  </tr>
-  <tr>
-    <td><strong>🐳 Containerization</strong></td>
-    <td>Docker, Multi-stage builds, Image optimization</td>
-  </tr>
-  <tr>
-    <td><strong>📦 Registry</strong></td>
-    <td>Docker Hub, AWS ECR</td>
-  </tr>
-  <tr>
-    <td><strong>🚀 Deployment</strong></td>
-    <td>AWS (EC2, S3), Docker containers</td>
-  </tr>
-  <tr>
-    <td><strong>🔄 CI/CD Platforms</strong></td>
-    <td>GitHub Actions, AWS CodePipeline</td>
-  </tr>
-  <tr>
-    <td><strong>⚙️ Orchestration</strong></td>
-    <td>Kubernetes (learning), Docker Compose</td>
-  </tr>
-</table>
-
-### **Sample Workflows**
-
-<details>
-<summary><strong>📘 GitHub Actions - Node.js CI/CD</strong></summary>
-
-```yaml
-name: Node.js CI/CD Pipeline
-
-on:
-  push:
-    branches: [main, develop]
-  pull_request:
-    branches: [main]
-
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [16.x, 18.x]
-    steps:
-      - uses: actions/checkout@v3
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
-      - name: Install dependencies
-        run: npm ci
-      - name: Run tests
-        run: npm test
-      - name: Build
-        run: npm run build
-
-  build-and-deploy:
-    needs: test
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
-    steps:
-      - uses: actions/checkout@v3
-      - name: Build Docker image
-        run: docker build -t myapp:${{ github.sha }} .
-      - name: Login to Docker Hub
-        uses: docker/login-action@v2
-        with:
-          username: ${{ secrets.DOCKER_USERNAME }}
-          password: ${{ secrets.DOCKER_PASSWORD }}
-      - name: Push to Docker Hub
-        run: |
-          docker tag myapp:${{ github.sha }} myapp:latest
-          docker push myapp:${{ github.sha }}
-          docker push myapp:latest
-      - name: Deploy to AWS
-        run: echo "Deploying to AWS EC2..."
-```
-
-</details>
-
-<details>
-<summary><strong>🐳 Docker Multi-Stage Build</strong></summary>
-
-```dockerfile
-# Build stage
-FROM node:18-alpine AS builder
-WORKDIR /app
-COPY package*.json ./
-RUN npm ci --only=production
-COPY . .
-RUN npm run build
-
-# Production stage
-FROM node:18-alpine
-WORKDIR /app
-COPY --from=builder /app/dist ./dist
-COPY --from=builder /app/node_modules ./node_modules
-COPY package*.json ./
-EXPOSE 3000
-HEALTHCHECK --interval=30s --timeout=3s \
-  CMD node healthcheck.js
-CMD ["node", "dist/server.js"]
-```
-
-</details>
+- 🔄 GitHub Actions workflow automation
+- 🐳 Docker containerization & deployment
+- ☁️ AWS pipeline integration (EC2, S3)
+- ✅ Automated testing & build processes
 
 ---
 
@@ -353,7 +248,7 @@ CMD ["node", "dist/server.js"]
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 <div align="center">
 
