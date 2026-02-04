@@ -135,31 +135,8 @@ const satyajit = {
 
 ---
 
-## 🔄 CI/CD & Deployment Pipeline
 
-### **Pipeline Architecture**
 
-```mermaid
-graph LR
-    A[💻 Code Push] --> B[🔍 GitHub Actions]
-    B --> C[🧪 Build & Test]
-    C --> D{✅ Tests Pass?}
-    D -->|Yes| E[🐳 Build Docker Image]
-    D -->|No| F[❌ Notify Developer]
-    E --> G[📦 Push to Registry]
-    G --> H[🚀 Deploy to AWS]
-    H --> I[💚 Health Checks]
-    I --> J{🔍 Healthy?}
-    J -->|Yes| K[✨ Production Live]
-    J -->|No| L[↩️ Rollback]
-```
-
-### **CI/CD Capabilities**
-
-- 🔄 GitHub Actions workflow automation
-- 🐳 Docker containerization & deployment
-- ☁️ AWS pipeline integration (EC2, S3)
-- ✅ Automated testing & build processes
 
 ---
 
