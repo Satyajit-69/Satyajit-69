@@ -116,29 +116,6 @@ const satyajit = {
 - ✍️ **Prompt engineering** - Optimizing AI outputs through strategic prompting
 - 🔗 **AI-driven automation systems** - Intelligent workflows and decision-making pipelines
 
-### **Cloud, DevOps & CI/CD**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-**DevOps Expertise:**
-- ☁️ **AWS Services** - IAM, EC2, S3, CodePipeline (fundamentals)
-- 🐳 **Docker** - Containerization and deployment
-- ⚙️ **Kubernetes** - Container orchestration basics
-- 🔄 **CI/CD Pipelines** - GitHub Actions, AWS CodePipeline
-- 🚀 **Deployment & Automation** - Streamlined workflows and infrastructure
-
----
-
-
-
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -155,25 +132,6 @@ const satyajit = {
 
 ---
 
-## 💡 Problem Solving Journey
-
-```text
-📈 Coding Platforms
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🔥 Primary Languages   : Java, Python
-📝 LeetCode            : 500+ Problems Solved
-📝 GeeksforGeeks       : Active Problem Solver
-🎯 Current Focus       : Advanced DSA Patterns
-⭐ Core Areas          : Arrays, Trees, Graphs, Dynamic Programming
-
-💪 Problem Categories Mastered:
-   ├─ Arrays & Strings        ████████████████░░  85%
-   ├─ Trees & Graphs          ███████████████░░░  80%
-   ├─ Dynamic Programming     ██████████████░░░░  75%
-   ├─ Recursion & Backtracking ████████████░░░░░  65%
-   └─ System Design Basics    ██████████░░░░░░░  55%
-```
 
 <div align="center">
 
@@ -200,59 +158,7 @@ const satyajit = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Satyajit-69&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
 
-## 🚀 Current Learning
-
-<table>
-  <tr>
-    <td>☁️</td>
-    <td><strong>Advanced AWS & DevOps practices</strong> - Diving deeper into cloud architecture</td>
-  </tr>
-  <tr>
-    <td>🔄</td>
-    <td><strong>CI/CD pipelines and cloud deployments</strong> - Mastering automation workflows</td>
-  </tr>
-  <tr>
-    <td>🏗️</td>
-    <td><strong>Scalable AI system design</strong> - Building production-grade AI applications</td>
-  </tr>
-  <tr>
-    <td>📊</td>
-    <td><strong>Microservices architecture</strong> - Designing distributed systems</td>
-  </tr>
-</table>
-
----
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Satyajit's Goals))
-    Internship
-      Top Tech Companies
-      AI/ML Teams
-      Full-Stack Roles
-    Technical Growth
-      Advanced AWS
-      Kubernetes Mastery
-      System Design
-    Projects
-      Production AI Apps
-      Open Source
-      Real-World Impact
-    Community
-      Tech Blogging
-      Mentoring
-      Networking
-```
-
-</div>
-
----
 
 ## 🤝 Connect With Me
 
