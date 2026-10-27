@@ -23,7 +23,7 @@ Full-Stack Developer focused on scalable web apps, AI-powered systems, and cloud
 
 **Databases:** MongoDB,Sql,Qdrant
 
-**AI:** LangChain, RAG, Gemini API
+**AI:** LangChain, RAG, OpenAI API
 
 **DevOps & Cloud:** Docker, Kubernetes, AWS, CI/CD
 
